@@ -1,0 +1,35 @@
+header {
+    border: 1px solid red;
+    text-align: center;
+    position:fixed;
+    width: 60%;
+    left: 300px;
+    bottom: 550px;
+    margin:auto;
+    
+    background-color: blue;
+}
+    
+
+footer {
+    border: 15px solid red;
+    text-align: center;
+    position:fixed;
+    width: 100%;
+    left: 0px;
+    bottom: 0px;
+    margin:auto;
+    background-color: blue;
+    he
+}
+article {
+    border: 10px solid black;
+    display:grid;
+    width:40%;
+    text-align: center;
+    height: 50%;
+}
+.box{
+    display:grid;
+    text-align: center;
+}
